@@ -42,7 +42,7 @@ export function ConnectionScreen({ onConnect }) {
             <Database size={18} className="text-white" />
           </div>
           <div>
-            <div className="font-semibold text-gray-900 text-base leading-tight">DB Manager</div>
+            <div className="font-semibold text-gray-900 text-base leading-tight">Supa Ctrl</div>
             <div className="text-xs text-gray-400">Supabase database interface</div>
           </div>
         </div>
